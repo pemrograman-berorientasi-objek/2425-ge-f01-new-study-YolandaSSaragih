@@ -18,7 +18,6 @@ public class Enrollment {
     private String courseId;
 
     public Enrollment() {
-        // empty constructor
     }
 
     public Enrollment(String studentId, String courseId) {
